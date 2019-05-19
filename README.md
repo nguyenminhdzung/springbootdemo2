@@ -1,1 +1,1 @@
-springbootdemo2
+Spring boot 2 MVC JPA 
